@@ -1,0 +1,16 @@
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.exe
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.deps.json
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.runtimeconfig.json
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.runtimeconfig.dev.json
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.dll
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\ref\Jogo_Da_Velha.dll
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\bin\Debug\net5.0\Jogo_Da_Velha.pdb
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.csproj.AssemblyReference.cache
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.AssemblyInfoInputs.cache
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.AssemblyInfo.cs
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.dll
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\ref\Jogo_Da_Velha.dll
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.pdb
+C:\Users\guto\Desktop\Projetos_Exercicios_em_CSharp\Jogo_Da_Velha\obj\Debug\net5.0\Jogo_Da_Velha.genruntimeconfig.cache
